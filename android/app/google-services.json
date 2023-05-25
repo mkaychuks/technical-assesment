@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "249184424157",
+    "project_id": "authtutorial-4d25a",
+    "storage_bucket": "authtutorial-4d25a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249184424157:android:f4b71ec8d5aab156e2cb34",
+        "android_client_info": {
+          "package_name": "com.example.auth_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249184424157-a1r0033rqp8paibhbvmboo2vnjlvek8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auth_tutorial",
+            "certificate_hash": "c6470b3e770e7237172d77d290f80fbd9e84b6b3"
+          }
+        },
+        {
+          "client_id": "249184424157-b73tll94mgkokd3snhh6nub63gg5nag8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq5W-yvlVpJyI008jLLgfbTOpSt0-VwM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249184424157-ajlaq2rhcpo53ol4v6gn556h236nhpvf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249184424157-9359hmlbn2eapaisn418d03eoob8ntar.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authTutorial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249184424157:android:25e54700ae2386fbe2cb34",
+        "android_client_info": {
+          "package_name": "com.example.intern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249184424157-2sd674ar9ufa7mjs3bp4lhjcco72uvlo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intern",
+            "certificate_hash": "c6470b3e770e7237172d77d290f80fbd9e84b6b3"
+          }
+        },
+        {
+          "client_id": "249184424157-b73tll94mgkokd3snhh6nub63gg5nag8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq5W-yvlVpJyI008jLLgfbTOpSt0-VwM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249184424157-ajlaq2rhcpo53ol4v6gn556h236nhpvf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249184424157-9359hmlbn2eapaisn418d03eoob8ntar.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authTutorial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
